@@ -791,7 +791,7 @@
         </devicepp>
         <!-- OUT Bluetooth BLE DevicePPs -->
         <devicepp id="PAL_DEVICE_OUT_BLUETOOTH_BLE">
-            <keys_and_values StreamType="PAL_STREAM_COMPRESSED,PAL_STREAM_DEEP_BUFFER,PAL_STREAM_LOW_LATENCY,PAL_STREAM_PCM_OFFLOAD">
+            <keys_and_values StreamType="PAL_STREAM_COMPRESSED,PAL_STREAM_DEEP_BUFFER,PAL_STREAM_LOW_LATENCY,PAL_STREAM_PCM_OFFLOAD,PAL_STREAM_GENERIC">
                 <!-- DEVICEPP_RX - DEVICEPP_RX_AUDIO_MBDRC -->
                 <graph_kv key="0xAC000000" value="0xAC000002"/>
             </keys_and_values>
