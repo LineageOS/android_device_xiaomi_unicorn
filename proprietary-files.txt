@@ -532,8 +532,6 @@ vendor/etc/camera/xiaomi/thirdpartysnapshot.json
 vendor/etc/camera/xiaomiSceneDetection.xml
 vendor/etc/init/vendor.qti.camera.provider@2.7-service_64.rc
 vendor/etc/vintf/manifest/vendor.xiaomi.hardware.quickcamera@1.0-service.xml
-vendor/lib64/camera/com.qti.eeprom.unicorn_semco_imx707_p24c128f_wide_eeprom.so
-vendor/lib64/camera/com.qti.eeprom.unicorn_sunny_s5kjn1_bl24sa128b_ultra_eeprom.so
 vendor/lib64/camera/com.qti.tuned.default.bin
 vendor/lib64/camera/components/com.bots.node.vendortagwrite.so
 vendor/lib64/camera/components/com.mi.node.AIIE.so
@@ -914,6 +912,8 @@ vendor/firmware/unicorn_wide_bu24618_ois.prog
 vendor/lib64/camera/com.qti.actuator.unicorn_semco_imx707_ak7314_wide_actuator.so
 vendor/lib64/camera/com.qti.actuator.unicorn_sunny_s5kjn1_dw9714_tele_actuator.so
 vendor/lib64/camera/com.qti.eeprom.unicorn_ofilm_ov32b40_p24c64f_front_eeprom.so
+vendor/lib64/camera/com.qti.eeprom.unicorn_semco_imx707_p24c128f_wide_eeprom.so
+vendor/lib64/camera/com.qti.eeprom.unicorn_sunny_s5kjn1_bl24sa128b_ultra_eeprom.so
 vendor/lib64/camera/com.qti.eeprom.unicorn_sunny_s5kjn1_gt24p128e_tele_eeprom.so
 vendor/lib64/camera/com.qti.ois.unicorn_wide_bu24618_ois.so
 vendor/lib64/camera/com.qti.sensor.unicorn_ofilm_ov32b40_front.so
