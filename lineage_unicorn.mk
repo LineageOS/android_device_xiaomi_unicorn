@@ -17,8 +17,8 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 2206122SC
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="unicorn-user 15 AQ3A.241006.001 OS2.0.211.0.VLECNXM release-keys" \
-    BuildFingerprint=Xiaomi/unicorn/unicorn:15/AQ3A.241006.001/OS2.0.211.0.VLECNXM:user/release-keys \
+    BuildDesc="unicorn-user 15 AQ3A.250226.002 OS3.0.2.0.VLECNXM release-keys" \
+    BuildFingerprint=Xiaomi/unicorn/unicorn:15/AQ3A.250226.002/OS3.0.2.0.VLECNXM:user/release-keys \
     DeviceProduct=unicorn \
     SystemName=unicorn
 
