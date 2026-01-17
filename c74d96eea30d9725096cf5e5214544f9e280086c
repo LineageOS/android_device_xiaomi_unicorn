@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "74db8c58_ac81f4ab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30074
+      },
+      "writtenOn": "2026-01-17T08:02:27Z",
+      "side": 1,
+      "message": "OTA URL:\nhttps://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.2.0.VLECNXM/unicorn-ota_full-OS3.0.2.0.VLECNXM-user-15.0-f9fa2e7413.zip",
+      "revId": "c74d96eea30d9725096cf5e5214544f9e280086c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
