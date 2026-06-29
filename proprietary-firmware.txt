@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from unicorn OS3.0.3.0.VLECNXM
+## are from unicorn OS3.0.4.0.VLECNXM
 
 abl.img;AB
 aop.img;AB
